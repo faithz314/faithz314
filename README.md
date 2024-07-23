@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @faithz314
-- 👀 I’m interested in fullstack and design
-- 🌱 I’m currently learning web dev from scratch!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+Hi! I try to code sometimes. I also like doing design work + data analysis. It's a long game of catch up :)
 
 <!---
 faithz314/faithz314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
